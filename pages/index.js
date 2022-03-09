@@ -6,6 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+    
+    <script type="text/javascript">
+location="http://example.com/index.html";
+
+</script>
+    
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
